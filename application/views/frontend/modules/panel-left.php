@@ -65,7 +65,6 @@
                     echo $html;
                 }
                 ?>
-                <li class="pull-left"><a href="tin-tuc">Tin tức</a></li>
                 <li class="pull-left"><a href="gioi-thieu">Giới thiệu</a></li>
                 <li class="pull-left"><a href="lien-he">Liên hệ</a></li>
             </ul>

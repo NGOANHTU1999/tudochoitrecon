@@ -16,10 +16,9 @@
         <div class="col-xs-12 col-sm-12 col-md-6">
             <div class="col-xs-12 col-sm-6">
                 <a href="trang-chu">
-                    <img src="public/images/dung-toys.png" style="width: 90%;" class="img-fix f-logo" alt="smart-construction">
+                    <img src="public/images/tu-store.png" style="width: 90%;" class="img-fix f-logo" alt="smart-construction">
                 </a>
-                <div class="about-store">
-              Dũng Toys.Chất lượng - An toàn cho trẻ nhỏ </div>
+              <div class="about-store"></div>
          </div>
          <div class="col-xs-12 col-sm-6">
             <div class="f-contact">
@@ -27,10 +26,10 @@
                 <ul class="list-unstyled">
                     <li class="clearfix">
                         <i class="fa fa-map-marker"></i>
-                        <span>Huyện Hóc Môn, Thành phố Hồ Chí Minh </span>                    </li>
+                        <span> Thành phố Hồ Chí Minh </span>                    </li>
                     <li class="clearfix">
                         <i class="fa fa-phone"></i>
-                        <span>Hot line : 089 976 0097</span>                    </li>
+                        <span>Hot line : 18009802</span>                    </li>
                     <li class="clearfix">
                         <i class="fa fa-envelope"></i>
                         <span><a href="mailto:dochoitrecon@gmail.com">dochoitrecon@gmail.com</a></span>                    </li>

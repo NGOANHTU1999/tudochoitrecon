@@ -1,12 +1,12 @@
 <section class="logo-search">
   <div class="container">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 logo">
-      <a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/dung-toys.png" alt="Logo Construction"></a>
+      <a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/tu-store.png" alt="Logo Construction"></a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 search">
       <div class="contact-row">
         <div class="phone inline">
-          <i class="icon fa fa-phone"></i> 089 976 0097</div>
+          <i class="icon fa fa-phone"></i> 18009802 </div>
         <div class="contact inline">
           <i class="icon fa fa-envelope"></i> dochoitrecon@gmail.com
         </div>

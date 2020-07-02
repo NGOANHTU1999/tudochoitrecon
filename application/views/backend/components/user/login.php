@@ -13,7 +13,10 @@
     <body>
         <div class="container khung">
             <div class="title">
-                <h2 class="text-center" style="color:#337ab7">DŨNG TOYS </h2>
+                <h2 class="text-center" style="color:#000000">TÚ STORE </h2>
+				<a href="">
+                    <img src="public/images/tu-store.png" style="width: 90%;"calss= "text-center" class="img-fix f-logo" alt="smart-construction">
+                </a>
             </div>
             <hr>
             <div class="myform">
@@ -51,7 +54,7 @@
         </div>
         <nav class="navbar navbar-fixed-bottom" role="navigation">
             <div class="container">
-               <h5 class="text-center">Copyright © 2020 <a href="#" style="color:red">Dũng Toys</a>. All rights reserved.</h5>
+               <h5 class="text-center">Copyright © 2019 <a href="#" style="color:red">Tú Store</a>. All rights reserved.</h5>
             </div>
         </nav>
         <!-- jQuery -->

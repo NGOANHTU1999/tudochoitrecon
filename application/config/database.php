@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'db_shop',
+	'hostname' => 'sql306.freesite.vip',
+	'username' => 'frsiv_26099256',
+	'password' => 'namnam89',
+	'database' => 'frsiv_26099256_shop',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => 'db_',
 	'pconnect' => FALSE,

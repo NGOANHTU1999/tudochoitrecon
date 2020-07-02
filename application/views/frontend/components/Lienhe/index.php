@@ -59,11 +59,9 @@
 			">
 			<h1 style="color: black">Thông tin liên hệ</h1>
 			<ul class="list-unstyled">
-				<li class="clearfix">
-					
-					<span style="color: black"> Huyện Hooc Môn, TP.Hồ Chí Minh </span><br>
+				<li class="clearfix"><span style="color: black">TP.Hồ Chí Minh </span><br>
 			  </li>
-				<li class="clearfix"><span style="color: black">Hotline : 089 976 0097</span>				</li>
+				<li class="clearfix"><span style="color: black">Hotline : 18009802 </span>				</li>
 				<li class="clearfix style1"><a href="mailto:dochoitrecon@gmail.com">dochoitrecon@gmail.com</a>				</li>
 			</ul>
 		</div>
